@@ -4,8 +4,8 @@ This is where I am going to try to upload and display the projects that I have
 done. I will also attempt to familiarize myself with github pages so that way I
 can include it in my toolbox.
 
-### Who is Richard Chum
-
+### ** Who is Richard Chum **
+```
 I am a graduate of the University of California, San Diego. I graduated with a
 bachelors of science in Computer Engineer as of June 2018, and I am looking for an
 occupation. I am interested in coding and integrating the code I constructed
@@ -39,7 +39,7 @@ which include Martial Arts Club, and Cambodian Student Socitey. Martial Arts
 club provided an outlet to help me controll the stress I had and left a lasting
 impression on me. I learned that control of one's body is similar to how one
 would controll one's mental state. 
-
+```
 
 ### Markdown
 
