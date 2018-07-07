@@ -1,9 +1,8 @@
-## Welcome Richard Chum's Project page
+## Welcome to GitHub Pages
 
-This is where I am going to try to upload and display the projects that I have
-done. I will also attempt to familiarize myself with github pages so that way I
-can include it in my toolbox.
+You can use the [editor on GitHub](https://github.com/drawsome1/drawsome1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
