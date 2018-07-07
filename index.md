@@ -4,7 +4,7 @@ This is where I am going to try to upload and display the projects that I have
 done. I will also attempt to familiarize myself with github pages so that way I
 can include it in my toolbox.
 
-### ** Who is Richard Chum **
+## Who is Richard Chum
 ```
 I am a graduate of the University of California, San Diego. I graduated with a
 bachelors of science in Computer Engineer as of June 2018, and I am looking for an
