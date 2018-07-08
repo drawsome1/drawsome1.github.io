@@ -43,7 +43,7 @@ would controll one's mental state.
 
 ## Projects
 
-[Disney Themed Pinball Machine](https:/drawsome1.github.io/Pinball_Machine/)
+[Disney Themed Pinball Machine](https:/drawsome1.github.io/Pinball_Machine)
 
 
 ### Markdown
