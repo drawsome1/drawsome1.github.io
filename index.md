@@ -43,7 +43,7 @@ would controll one's mental state.
 
 ## Skills
 ### Software Languages
-* Object Oriented C 	* C/C++ 	* Java 		* Python    
+| Object Oriented C | C/C++ | Java | Python |
 
 ## Work Experiences
 ## Extra Curricular
