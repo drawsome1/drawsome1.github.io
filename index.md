@@ -41,6 +41,11 @@ impression on me. I learned that control of one's body is similar to how one
 would controll one's mental state. 
 ```
 
+## Projects
+
+[Disney Themed Pinball Machine](https:/drawsome1.github.io/Pinball_Machine/)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
