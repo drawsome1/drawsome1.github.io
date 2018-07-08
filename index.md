@@ -7,13 +7,13 @@ can include it in my toolbox.
 ## Who is Richard Chum
 ```
 I am a graduate of the University of California, San Diego. I graduated with a
-bachelors of science in Computer Engineer as of June 2018, and I am looking for an
-occupation. I am interested in coding and integrating the code I constructed
+bachelors of science in Computer Engineer as of June 2018, and I am looking for
+an occupation. I am interested in coding and integrating the code I constructed
 with electrical and mechanical components. Ideally I would like to work with a
 company where I can grow to new heights, and in doing so benefiting the company.
 I prefer to spend long hours of coding and applying it to actual componenets
-rather than at a desk but that's just a preference (I don't want to cut my
-		opportunities short).
+rather than at a desk but that's just a preference (I don't want to cut my 
+opportunities short).
 
 I enjoy working with people especially within a group with a centralized goal.
 Working with others has proven to be the best way for me to grow individually
@@ -41,39 +41,15 @@ impression on me. I learned that control of one's body is similar to how one
 would controll one's mental state. 
 ```
 
+## Skills
+### Software Languages
+* Object Oriented C 	* C/C++ 	* Java 		* Python    
+
+## Work Experiences
+## Extra Curricular
+
 ## Projects
 
 [Disney Themed Pinball Machine](https://drawsome1.github.io/Pinball_Machine)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drawsome1/drawsome1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
