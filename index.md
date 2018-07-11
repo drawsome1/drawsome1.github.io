@@ -1,4 +1,4 @@
-## Welcome To Richard Chum's Project Page
+# Welcome To Richard Chum's Project Page
 
 This is where I am going to try to upload and display the projects that I have
 done. I will also attempt to familiarize myself with github pages so that way I
@@ -45,8 +45,8 @@ would controll one's mental state.
 
 ## Skills
 ### Software Languages
- Object Oriented C | C/C++ | Java | Python 
------------------- | ----- | ---- | ------
+| Object Oriented C | C/C++ | Java | Python |
+| ----------------- | ----- | ---- | ------ |
 
 ## Work Experiences
 to be updated
