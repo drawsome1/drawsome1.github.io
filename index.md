@@ -39,17 +39,27 @@ which include Martial Arts Club, and Cambodian Student Socitey. Martial Arts
 club provided an outlet to help me controll the stress I had and left a lasting
 impression on me. I learned that control of one's body is similar to how one
 would controll one's mental state. 
+
+**to be completed**
 ```
 
 ## Skills
 ### Software Languages
-| Object Oriented C | C/C++ | Java | Python |
+ Object Oriented C | C/C++ | Java | Python 
+------------------ | ----- | ---- | ------
 
 ## Work Experiences
+to be updated
 ## Extra Curricular
+to be updated
 
 ## Projects
 
 [Disney Themed Pinball Machine](https://drawsome1.github.io/Pinball_Machine)
+
+Carousel
+
+Brilliant Pad Vision Ugrade
+
 
 
