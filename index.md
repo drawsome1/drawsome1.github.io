@@ -45,11 +45,18 @@ would controll one's mental state.
 
 ## Skills
 ### Software Languages
+
+| ewg | aweszfd | weasdf |
+|---|---|---|
+| poop | asdf we | awesfd |
+
+
+
 Object Oriented C | C/C++ 
 ----------------- | -----
 asdf | asdf
 
-updating 11
+updating 12
 
 
 | Java | Python |
