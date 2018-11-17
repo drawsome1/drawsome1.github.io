@@ -109,10 +109,11 @@ author:
   future. "
   location         : "Long Beach, California"
   email            : "chum.richard@gmail.com"
+  linkedin		   : "https://www.linkedin.com/in/richard-chum-5b6091139"
   links:
     - label: "chum.richard@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: chum.richard@gmail.com
+      url: #chum.richard@gmail.com
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -125,7 +126,11 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/drawsome1"
+	
+	- label: "LinkedIn"
+	  url: "https://www.linkedin.com/in/richard-chum-5b6091139"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
